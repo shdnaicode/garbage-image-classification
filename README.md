@@ -3,7 +3,7 @@ Image Classification Project
 
 A research project for deep learning on image classification model for garbage classification.
 
-Project Organization
+Project Structure
 ------------
 
     ├── LICENSE
@@ -54,4 +54,4 @@ Project Organization
 
 --------
 
-<p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
+Project based on Cookiecutter Data Science Template
