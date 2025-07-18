@@ -1,8 +1,6 @@
 Image Classification Project
 ==============================
 
-A research project for deep learning on image classification model for garbage classification.
-
 Project Structure
 ------------
 
